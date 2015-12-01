@@ -1,0 +1,8 @@
+[package]
+name = "winapi-rust-example"
+version = "0.1.0"
+authors = ["Jovansonlee Cesar <ivanceras@gmail.com>"]
+
+[dependencies]
+winapi="*"
+user32-sys="*"
